@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv_bio/
+
+.env
+
+app/config.py
+input_data/
